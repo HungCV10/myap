@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "262190184642",
+    "project_id": "testfb-26fc8",
+    "storage_bucket": "testfb-26fc8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262190184642:android:19b0872581cfa57eb5635b",
+        "android_client_info": {
+          "package_name": "com.myap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "262190184642-42o2smedhkiq8borgiodi2flatgpg093.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.myap",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "262190184642-1qcef02nnclhohe3trbhunlp3qbr9dri.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtxuXFiO-GxLtY3I7SskaqWvLpFVS6WcI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "262190184642-1qcef02nnclhohe3trbhunlp3qbr9dri.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
